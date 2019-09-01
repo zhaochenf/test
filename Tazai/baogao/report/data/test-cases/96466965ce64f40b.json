@@ -1,0 +1,84 @@
+{
+  "uid" : "96466965ce64f40b",
+  "name" : "test_7",
+  "fullName" : "baog#test_7",
+  "historyId" : "9c2a2dc47ba15523259d357b927b033b",
+  "time" : {
+    "start" : 1566181820830,
+    "stop" : 1566181820831,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块三"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "baog"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0O5FOI1"
+  }, {
+    "name" : "thread",
+    "value" : "3436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "bebb7894ca13525a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181614398,
+        "stop" : 1566181614399,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b46826505adcf8b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181523434,
+        "stop" : 1566181523434,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9977758f7e4f282f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566180539534,
+        "stop" : 1566180539535,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96466965ce64f40b.json",
+  "parameterValues" : [ ]
+}

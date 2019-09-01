@@ -1,0 +1,60 @@
+{
+  "uid" : "96abc6f8d7447c4d",
+  "name" : "test_4",
+  "fullName" : "baog#test_4",
+  "historyId" : "8a6fa3fcd234b063a44f3c774911be78",
+  "time" : {
+    "start" : 1566179289854,
+    "stop" : 1566179289854,
+    "duration" : 0
+  },
+  "description" : "\n    这是对函数的参数、返回值的一个注释\n    自我感觉老牛逼\n    ",
+  "descriptionHtml" : "<pre><code>这是对函数的参数、返回值的一个注释\n自我感觉老牛逼\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块二"
+  }, {
+    "name" : "story",
+    "value" : "这是一个很牛逼的测试用例"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "baog"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0O5FOI1"
+  }, {
+    "name" : "thread",
+    "value" : "4336-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96abc6f8d7447c4d.json",
+  "parameterValues" : [ ]
+}

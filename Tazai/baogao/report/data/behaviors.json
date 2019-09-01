@@ -1,0 +1,180 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "模块一",
+    "children" : [ {
+      "name" : "test_1",
+      "uid" : "560a7cd34c2f89b6",
+      "parentUid" : "5162ae1ad2f1103ff6d48348050d4a2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820750,
+        "stop" : 1566181820750,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_2",
+      "uid" : "1081c5c4dea5f409",
+      "parentUid" : "5162ae1ad2f1103ff6d48348050d4a2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820758,
+        "stop" : 1566181820758,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "5162ae1ad2f1103ff6d48348050d4a2d"
+  }, {
+    "name" : "模块二",
+    "children" : [ {
+      "name" : "这是一个很牛逼的测试用例",
+      "children" : [ {
+        "name" : "test_3",
+        "uid" : "96f90a19c6a044b6",
+        "parentUid" : "af87bb1c93e829d21ca5bb1aef903885",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566181820765,
+          "stop" : 1566181820765,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af87bb1c93e829d21ca5bb1aef903885"
+    }, {
+      "name" : "这是一个垃圾的测试用例",
+      "children" : [ {
+        "name" : "test_4",
+        "uid" : "daaedb31d294836b",
+        "parentUid" : "509cc20660d60813c17e4b1537d031fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566181820800,
+          "stop" : 1566181820800,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "509cc20660d60813c17e4b1537d031fd"
+    } ],
+    "uid" : "571f4e4aca2d0bcf8ef43920bb3b955b"
+  }, {
+    "name" : "模块三",
+    "children" : [ {
+      "name" : "test_5",
+      "uid" : "faf006b417475b07",
+      "parentUid" : "58dca899f32fadbf83ead1a6d5934078",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820807,
+        "stop" : 1566181820807,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_6",
+      "uid" : "cd828493f01b617a",
+      "parentUid" : "58dca899f32fadbf83ead1a6d5934078",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820823,
+        "stop" : 1566181820823,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_7",
+      "uid" : "96466965ce64f40b",
+      "parentUid" : "58dca899f32fadbf83ead1a6d5934078",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820830,
+        "stop" : 1566181820831,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_8",
+      "uid" : "e94376226f720e94",
+      "parentUid" : "58dca899f32fadbf83ead1a6d5934078",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820838,
+        "stop" : 1566181820838,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_9",
+      "uid" : "29d855475bae40cc",
+      "parentUid" : "58dca899f32fadbf83ead1a6d5934078",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820846,
+        "stop" : 1566181820846,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "58dca899f32fadbf83ead1a6d5934078"
+  }, {
+    "name" : "模块四",
+    "children" : [ {
+      "name" : "test_10",
+      "uid" : "5019c27d561cdc6f",
+      "parentUid" : "92d5149a20b9156be3d230c521e3e4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181820853,
+        "stop" : 1566181820853,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "92d5149a20b9156be3d230c521e3e4e7"
+  }, {
+    "name" : "模块五",
+    "children" : [ {
+      "name" : "test_story_01",
+      "children" : [ {
+        "name" : "test_case",
+        "uid" : "56827def26a5e28c",
+        "parentUid" : "27440485981d7102d775559442fc198b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566181820866,
+          "stop" : 1566181820866,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27440485981d7102d775559442fc198b"
+    } ],
+    "uid" : "03cfb979ffa193c663c15229869a9fab"
+  } ]
+}

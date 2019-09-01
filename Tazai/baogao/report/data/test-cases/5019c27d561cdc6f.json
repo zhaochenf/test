@@ -1,0 +1,111 @@
+{
+  "uid" : "5019c27d561cdc6f",
+  "name" : "test_10",
+  "fullName" : "baog#test_10",
+  "historyId" : "3862664e00d4d024ec123b2e23f8414b",
+  "time" : {
+    "start" : 1566181820853,
+    "stop" : 1566181820853,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "字符串相加：'hello'，'world'",
+      "time" : {
+        "start" : 1566181820853,
+        "stop" : 1566181820853,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "str1",
+        "value" : "'hello'"
+      }, {
+        "name" : "str2",
+        "value" : "'world'"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "d318447f12ccc546",
+      "name" : "stdout",
+      "source" : "d318447f12ccc546.txt",
+      "type" : "text/plain",
+      "size" : 6
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块四"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "baog"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0O5FOI1"
+  }, {
+    "name" : "thread",
+    "value" : "3436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b72526213290bff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181614461,
+        "stop" : 1566181614463,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9c497b9154ddbd6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'helloworid' == 'helloworld'\n  - helloworid\n  ?         ^\n  + helloworld\n  ?         ^",
+      "time" : {
+        "start" : 1566181523455,
+        "stop" : 1566181523455,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5019c27d561cdc6f.json",
+  "parameterValues" : [ ]
+}

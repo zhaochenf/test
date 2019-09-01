@@ -1,0 +1,113 @@
+{
+  "uid" : "560a7cd34c2f89b6",
+  "name" : "test_1",
+  "fullName" : "baog#test_1",
+  "historyId" : "e984cfbb384107a6e3bd098d475e07f6",
+  "time" : {
+    "start" : 1566181820750,
+    "stop" : 1566181820750,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "模块一"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "baog"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0O5FOI1"
+  }, {
+    "name" : "thread",
+    "value" : "3436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "baog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9eecc18b0b84ffb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181614266,
+        "stop" : 1566181614267,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6bfb9706abc53d83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566181523347,
+        "stop" : 1566181523348,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1021c6b380f36372",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566180539430,
+        "stop" : 1566180539431,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6e861f1a6d59fa20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566179529292,
+        "stop" : 1566179529292,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d2115dcb9a9f730a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566179289800,
+        "stop" : 1566179289801,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cb1e23e4b0cc1b53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566179253599,
+        "stop" : 1566179253599,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5462c57bf57cc402",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566178312484,
+        "stop" : 1566178312484,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "560a7cd34c2f89b6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,108 @@
+---
+#点击手机号登录 id
+shouji: com.vy.visvacn:id/rl_phone
+#点击密码登录
+mmd: com.vy.visvacn:id/txt_login_bypassword
+#输入手机号
+hama: com.vy.visvacn:id/et_phone
+#输入密码
+mima: com.vy.visvacn:id/et_passwrd
+#点击登录
+login: com.vy.visvacn:id/tv_done
+#点击人像
+tux: com.vy.visvacn:id/v3
+#断言
+dy: com.vy.visvacn:id/title_container
+dy1: android.widget.TextView
+#设置 id
+seting: com.vy.visvacn:id/ll_setting
+#退出登录id
+tchu: com.vy.visvacn:id/tv_login_out
+#确定id
+qding: android:id/button1
+#取消 id
+qxiao: android:id/button2
+#底部+号  id
+jiahao: com.vy.visvacn:id/btn_push
+#提问讨论 id
+twen: com.vy.visvacn:id/fl_question
+#问题内容 id
+wenn: com.vy.visvacn:id/et_title
+#发布id
+fab: com.vy.visvacn:id/tv_time
+
+#铃铛模块id
+lingt: com.vy.visvacn:id/v1
+#断言id
+xxi: com.vy.visvacn:id/tv_title_1
+#评论 id
+pingl: com.vy.visvacn:id/rl_comment
+#返回 id
+fanh: com.vy.visvacn:id/titlebar_left_img
+#回答id
+huid: com.vy.visvacn:id/rl_answer
+#GMM id
+GM: com.vy.visvacn:id/rl_like
+#被收藏 id
+bscang: com.vy.visvacn:id/rl_collection
+#官方公告
+ggao: com.vy.visvacn:id/rl_system
+
+#收藏模块 id
+scang: com.vy.visvacn:id/v2
+#断言 id    我的收藏
+wsc: com.vy.visvacn:id/tv_title_1
+#给收藏内容 评论
+scping: com.vy.visvacn:id/iv_comment
+#转发 id
+zhuanf: com.vy.visvacn:id/fl_share
+#取消
+zhuanqv: com.vy.visvacn:id/tv_cancel
+
+#密码多 验证
+dmm: com.vy.visvacn:id/tv_forget_password
+
+#更换图像
+#点击人像模块
+#点击编辑id
+bianj: com.vy.visvacn:id/tv_edit
+#点击修改图像id
+xtux: com.vy.visvacn:id/ll_avatar
+#选择图像id
+xtp: com.vy.visvacn:id/picture_recycler
+xname: com.vy.visvacn:id/check
+#完成 id
+wcheng: com.vy.visvacn:id/tv_image_num_and_next
+# 对号 id
+duih: com.vy.visvacn:id/menu_crop
+#保存
+baoc: com.vy.visvacn:id/btn_save
+
+
+#首页模块 id
+xid: com.vy.visvacn:id/fl_circle
+#断言 CIO   id
+ciq: com.vy.visvacn:id/tv_title_ciq
+#返回 id
+cfi: com.vy.visvacn:id/iv_back
+
+#修改个人资料
+#性别 id
+xbi: com.vy.visvacn:id/sb_sex
+nnb: com.vy.visvacn:id/rcv
+nni: android.widget.TextView
+#生日 id
+shd: com.vy.visvacn:id/sb_birthday
+#年 id
+niaid: com.vy.visvacn:id/wv0
+##确定id
+qid: com.vy.visvacn:id/tv_confirm
+#工作 id
+gzid: com.vy.visvacn:id/et_job
+#个性签名 id
+gxid: com.vy.visvacn:id/ll_signature
+nqid: com.vy.visvacn:id/et_signature
+#完成 id
+wcid: com.vy.visvacn:id/tv_time
+#  断言更改成功 id
+dyid: com.vy.visvacn:id/tv_number
