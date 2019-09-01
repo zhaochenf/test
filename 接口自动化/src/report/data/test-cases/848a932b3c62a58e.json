@@ -1,0 +1,105 @@
+{
+  "uid" : "848a932b3c62a58e",
+  "name" : "test_3[苏州-c8c28b132002bbd78fbfec90011057c6]",
+  "fullName" : "test_3#test_3[苏州-c8c28b132002bbd78fbfec90011057c6]",
+  "historyId" : "b5c2185705e9f340085d42e394701c71",
+  "time" : {
+    "start" : 1567166590093,
+    "stop" : 1567166590235,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "lianjie",
+    "time" : {
+      "start" : 1567166590092,
+      "stop" : 1567166590092,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "613135c51a66eb2f",
+      "name" : "stdout",
+      "source" : "613135c51a66eb2f.txt",
+      "type" : "text/plain",
+      "size" : 1907
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "这是一个牛逼的测试用例"
+  }, {
+    "name" : "feature",
+    "value" : "模块二"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_3"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-0O5FOI1"
+  }, {
+    "name" : "thread",
+    "value" : "8748-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "x",
+    "value" : "'苏州'"
+  }, {
+    "name" : "y",
+    "value" : "'c8c28b132002bbd78fbfec90011057c6'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "52b97e9c99472027",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567165279029,
+        "stop" : 1567165279250,
+        "duration" : 221
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "848a932b3c62a58e.json",
+  "parameterValues" : [ "'苏州'", "'c8c28b132002bbd78fbfec90011057c6'" ]
+}

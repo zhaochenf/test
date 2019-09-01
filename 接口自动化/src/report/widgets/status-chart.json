@@ -1,0 +1,41 @@
+[ {
+  "uid" : "3ecaff3f30f8e0c5",
+  "name" : "test_3[北京-c8c28b132002bbd78fbfec90011057c]",
+  "time" : {
+    "start" : 1567166590730,
+    "stop" : 1567166590878,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de454d373f31c7a8",
+  "name" : "test_3[苏州-c8c28b132002bbd78fbfec90011057c]",
+  "time" : {
+    "start" : 1567166590571,
+    "stop" : 1567166590693,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "848a932b3c62a58e",
+  "name" : "test_3[苏州-c8c28b132002bbd78fbfec90011057c6]",
+  "time" : {
+    "start" : 1567166590093,
+    "stop" : 1567166590235,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c722a1ad956abcb0",
+  "name" : "test_3[北京-c8c28b132002bbd78fbfec90011057c6]",
+  "time" : {
+    "start" : 1567166590296,
+    "stop" : 1567166590455,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

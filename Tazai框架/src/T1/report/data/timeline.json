@@ -1,0 +1,69 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-0O5FOI1",
+    "children" : [ {
+      "name" : "14048-MainThread",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "47beffb9fe83e495",
+        "parentUid" : "d91487400d6e6a229aaacb6f8a54c907",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566798780279,
+          "stop" : 1566798795788,
+          "duration" : 15509
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "655029d3a67f2c77",
+        "parentUid" : "d91487400d6e6a229aaacb6f8a54c907",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566798773477,
+          "stop" : 1566798780148,
+          "duration" : 6671
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d91487400d6e6a229aaacb6f8a54c907"
+    }, {
+      "name" : "636-MainThread",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "b8a6f8a205c1a189",
+        "parentUid" : "83482a05f1e61db09ba3f868f03d3640",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566798952628,
+          "stop" : 1566798963109,
+          "duration" : 10481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "68f6e893ab114f38",
+        "parentUid" : "83482a05f1e61db09ba3f868f03d3640",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566798945532,
+          "stop" : 1566798952547,
+          "duration" : 7015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "83482a05f1e61db09ba3f868f03d3640"
+    } ],
+    "uid" : "478bc42f39908be2c39a54fe7d1ea4e9"
+  } ]
+}

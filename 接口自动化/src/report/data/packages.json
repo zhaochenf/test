@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_3",
+    "children" : [ {
+      "name" : "test_3[苏州-c8c28b132002bbd78fbfec90011057c6]",
+      "uid" : "848a932b3c62a58e",
+      "parentUid" : "a4156ad62b2b3473b81b36731902c5b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567166590093,
+        "stop" : 1567166590235,
+        "duration" : 142
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'苏州'", "'c8c28b132002bbd78fbfec90011057c6'" ]
+    }, {
+      "name" : "test_3[北京-c8c28b132002bbd78fbfec90011057c6]",
+      "uid" : "c722a1ad956abcb0",
+      "parentUid" : "a4156ad62b2b3473b81b36731902c5b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567166590296,
+        "stop" : 1567166590455,
+        "duration" : 159
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'北京'", "'c8c28b132002bbd78fbfec90011057c6'" ]
+    }, {
+      "name" : "test_3[苏州-c8c28b132002bbd78fbfec90011057c]",
+      "uid" : "de454d373f31c7a8",
+      "parentUid" : "a4156ad62b2b3473b81b36731902c5b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567166590571,
+        "stop" : 1567166590693,
+        "duration" : 122
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'苏州'", "'c8c28b132002bbd78fbfec90011057c'" ]
+    }, {
+      "name" : "test_3[北京-c8c28b132002bbd78fbfec90011057c]",
+      "uid" : "3ecaff3f30f8e0c5",
+      "parentUid" : "a4156ad62b2b3473b81b36731902c5b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567166590730,
+        "stop" : 1567166590878,
+        "duration" : 148
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'北京'", "'c8c28b132002bbd78fbfec90011057c'" ]
+    } ],
+    "uid" : "a4156ad62b2b3473b81b36731902c5b6"
+  } ]
+}
